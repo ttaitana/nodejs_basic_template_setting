@@ -1,0 +1,21 @@
+{
+  "name": "nodejs_basic_template_setting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttaitana/nodejs_basic_template_setting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ttaitana/nodejs_basic_template_setting/issues"
+  },
+  "homepage": "https://github.com/ttaitana/nodejs_basic_template_setting#readme"
+}
+// Dependencies
+// bcryptjs body-parser dotenv express jsonwebtoken mysql2 sequelize nodemon passport passport-jwt passport-local
